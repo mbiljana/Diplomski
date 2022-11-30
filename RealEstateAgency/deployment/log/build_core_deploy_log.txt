@@ -1,0 +1,10 @@
+Buildfile: D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment
+     [copy] Copying 2 files to D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\model\lib\userlib
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

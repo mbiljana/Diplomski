@@ -1,0 +1,12 @@
+Buildfile: D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 2 source files to D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\run\bin
+
+package:
+      [jar] Building jar: D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

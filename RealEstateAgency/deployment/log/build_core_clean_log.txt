@@ -1,0 +1,10 @@
+Buildfile: D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\model
+   [delete] Deleting directory D:\Fakultet IV godina\IV II sem\IIS\mendix\New folder\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
